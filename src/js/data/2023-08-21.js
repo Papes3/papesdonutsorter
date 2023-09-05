@@ -9,85 +9,86 @@ dataSet[dataSetVersion].options = [
       checked: false,
       sub: [
         { name: "Interrobang", key: "anti" },
-        { name: "NaNoWriMo", key: "nano" }
+        { name: "No Post", key: "noast" },
+        { name: "Fan Character", key: "FC" }
       ]
     }
   ];
   
   dataSet[dataSetVersion].characterData = [
     {
-      name: "Hetzl Garr",
-      img: "hetzav.png",
-      opts: {
-        erp: [ "anti"]
-      }
-    },
-    {
-      name: "Lusai Dzanagh",
-      img: "lusav.png",
-      opts: {
-        erp: [ "anti"]
-      }
-    },
-    {
-      name: "Fayn Krysolt",
-      img: "faynav3.png",
-      opts: {
-        erp: [ "anti"]
-      }
-    },
-    {
-      name: "Lutzyn Kresajh",
-      img: "lutzav.png",
-      opts: {
-        erp: [ "anti"]
-      }
-    },
-    {
-      name: "Duemis",
-      img: "dueav2.png",
-      opts: {
-        erp: [ "anti"]
-      }
-    },
-    {
-      name: "Skalhareth",
-      img: "skalav.png",
-      opts: {
-        erp: [ "anti"]
-      }
-    },
-    {
-      name: "Bantzerash",
-      img: "bantav2.png",
-      opts: {
-        erp: [ "anti"]
-      }
-    },
-    {
-      name: "Erayl Vrynath",
+      name: "Yval",
       img: "fire.png",
       opts: {
-        game: ["nano"]
+        erp: [ "anti"]
       }
     },
     {
-      name: "Satza Renak",
-      img: "arm.jpeg",
+      name: "Oliv",
+      img: "fire.png",
       opts: {
-        game: ["nano"]
+        erp: [ "anti"]
       }
     },
     {
-      name: "Coa Lastnamehere",
-      img: "shark.jpeg",
+      name: "Carabosse",
+      img: "fire.png",
       opts: {
-        game: ["nano"]
+        erp: [ "anti"]
       }
     },
     {
-      name: "Serakhruhn",
-      img: "serav.png",
+      name: "Polymnia",
+      img: "fire.png",
+      opts: {
+        erp: [ "anti"]
+      }
+    },
+    {
+      name: "Nikolai",
+      img: "fire.png",
+      opts: {
+        erp: [ "anti"]
+      }
+    },
+    {
+      name: "Sigurd",
+      img: "fire.png",
+      opts: {
+        erp: [ "anti"]
+      }
+    },
+    {
+      name: "Mayda",
+      img: "fire.png",
+      opts: {
+        erp: [ "anti"]
+      }
+    },
+    {
+      name: "Alexandre",
+      img: "fire.png",
+      opts: {
+        game: ["anti"]
+      }
+    },
+    {
+      name: "Nikolai - En2rety",
+      img: "fire.jpeg",
+      opts: {
+        game: ["anti"]
+      }
+    },
+    {
+      name: "Vaellys",
+      img: "fire.jpeg",
+      opts: {
+        game: ["anti"]
+      }
+    },
+    {
+      name: "Rein",
+      img: "fire.png",
       opts: {
         erp: [ "anti"]
       }
