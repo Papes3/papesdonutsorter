@@ -52,7 +52,21 @@ dataSet[dataSetVersion].options = [
       }
     },
     {
+      name: "Deitra",
+      img: "fire.png",
+      opts: {
+        erp: [ "anti"]
+      }
+    },
+    {
       name: "Sigurd",
+      img: "fire.png",
+      opts: {
+        erp: [ "anti"]
+      }
+    },
+    {
+      name: "Deitra",
       img: "fire.png",
       opts: {
         erp: [ "anti"]
@@ -91,6 +105,34 @@ dataSet[dataSetVersion].options = [
       img: "fire.png",
       opts: {
         erp: [ "anti"]
+      }
+    },
+    {
+      name: "Oliv - Al2rety",
+      img: "fire.png",
+      opts: {
+        erp: [ "anti"]
+      }
+    },
+    {
+      name: "Smollys",
+      img: "fire.png",
+      opts: {
+        erp: [ "anti"]
+      }
+    },
+    {
+      name: "Spark",
+      img: "fire.png",
+      opts: {
+        erp: [ "FC"]
+      }
+    },
+    {
+      name: "Mila",
+      img: "fire.png",
+      opts: {
+        erp: [ "noast"]
       }
     }
   ]
