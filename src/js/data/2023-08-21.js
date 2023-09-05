@@ -52,7 +52,7 @@ dataSet[dataSetVersion].options = [
       }
     },
     {
-      name: "Deitra",
+      name: "Lyrette",
       img: "fire.png",
       opts: {
         erp: [ "anti"]
