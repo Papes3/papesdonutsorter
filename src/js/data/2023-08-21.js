@@ -108,7 +108,7 @@ dataSet[dataSetVersion].options = [
       }
     },
     {
-      name: "Oliv - Al2rety",
+      name: "Al2liv",
       img: "fire.png",
       opts: {
         erp: [ "anti"]
