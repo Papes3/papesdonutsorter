@@ -88,14 +88,14 @@ dataSet[dataSetVersion].options = [
     },
     {
       name: "Nikolai - En2rety",
-      img: "fire.jpeg",
+      img: "fire.png",
       opts: {
         game: ["anti"]
       }
     },
     {
       name: "Vaellys",
-      img: "fire.jpeg",
+      img: "fire.png",
       opts: {
         game: ["anti"]
       }
@@ -108,7 +108,7 @@ dataSet[dataSetVersion].options = [
       }
     },
     {
-      name: "Al2liv",
+      name: "Oliv - Al2rety",
       img: "fire.png",
       opts: {
         erp: [ "anti"]
